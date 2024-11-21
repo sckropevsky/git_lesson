@@ -1,1 +1,1 @@
-# My Project
+print('Hello Sckropevsky')
